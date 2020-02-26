@@ -19,7 +19,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'rails-ujs', '~> 0.1.0'
 
-gem 'nokogiri', '1.6.8.1'
+gem 'nokogiri', '1.10.8'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
